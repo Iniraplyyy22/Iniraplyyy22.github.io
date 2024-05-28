@@ -219,6 +219,7 @@ header h1 span {
     color: var(--primary);
 }
 
+
 main  {
     display: flex;
     flex-wrap: wrap;
